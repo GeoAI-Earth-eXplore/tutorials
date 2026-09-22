@@ -48,6 +48,7 @@ The goal of this repository is to make high-quality learning materials easier to
 | [Superpixels and SLIC](https://darshita1405.medium.com/superpixels-and-slic-6b2d8a6e4f08) | Introduction to superpixels and the SLIC image segmentation algorithm. | Community tutorial | Image segmentation / preprocessing | Open article |
 | [segmentation_models.pytorch](https://github.com/qubvel-org/segmentation_models.pytorch) | Documentation and examples for semantic segmentation architectures implemented in PyTorch. | Community project | Image segmentation | Open source |
 | [CanopyRS User Guide](https://hugobaudchon.github.io/CanopyRS/user-guide/data/#available-datasets) | Documentation and practical guidance for working with tree crown and canopy deep learning workflows. | CanopyRS | Tree detection / canopy analysis | Open |
+| [Test-Time Augmentation (TTA) with Keras](https://medium.com/data-science/test-time-augmentation-tta-and-how-to-perform-it-with-keras-4ac19b67fb4d) | Tutorial explaining test-time augmentation and how to combine predictions from augmented versions of an input image using Keras. | Nathan Hubens | Test-time augmentation / inference | Open article |
 
 ---
 
