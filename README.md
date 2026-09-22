@@ -10,9 +10,12 @@ The goal of this repository is to make high-quality learning materials easier to
 - [GIS and Spatial Analysis](#gis-and-spatial-analysis)
 - [Deep Learning and Computer Vision](#deep-learning-and-computer-vision)
 - [Machine Learning and Explainable AI](#machine-learning-and-explainable-ai)
+- [GPU Computing and Acceleration](#gpu-computing-and-acceleration)
 - [LiDAR and 3D Workflows](#lidar-and-3d-workflows)
 - [Image Processing](#image-processing)
 - [Remote Sensing](#remote-sensing)
+- [External Learning and Community Resources](#external-learning-and-community-resources)
+- [Career Resources](#career-resources)
 
 ---
 
@@ -56,8 +59,17 @@ The goal of this repository is to make high-quality learning materials easier to
 | [Permutation Importance](https://scikit-learn.org/stable/modules/permutation_importance.html) | Official documentation for evaluating feature importance through permutation-based performance changes. | scikit-learn | Feature importance | Open documentation |
 | [Variable Importances](https://developers.google.com/machine-learning/decision-forests/variable-importances) | Documentation covering feature-importance measures used in decision forest models. | Google | Feature importance | Open documentation |
 | [SHAP](https://christophm.github.io/interpretable-ml-book/shap.html) | Practical explanation of SHAP and Shapley-value-based interpretation of machine learning models. | Interpretable Machine Learning | Explainable AI | Open |
+| [Advanced Explainable AI for Computer Vision](https://jacobgil.github.io/pytorch-gradcam-book/introduction.html) | Practical guide to Grad-CAM and related techniques for visualizing and interpreting deep computer vision models. | Jacob Gildenblat | Computer vision / explainable AI | Open |
 | [Stacking to Improve Model Performance](https://medium.com/@brijesh_soni/stacking-to-improve-model-performance-a-comprehensive-guide-on-ensemble-learning-in-python-9ed53c93ce28) | Practical guide to ensemble stacking for combining multiple machine learning models. | Community tutorial | Ensemble learning | Open article |
 | [LightGBM Documentation](https://lightgbm.readthedocs.io/en/stable/) | Documentation and examples for training, tuning, and evaluating gradient boosting models. | LightGBM | Machine learning | Open |
+
+---
+
+## GPU Computing and Acceleration
+
+| Resource | Description | Organization / Author | Focus | Access |
+|---|---|---|---|---|
+| [NVIDIA cuML: Zero-Code-Change Acceleration for scikit-learn](https://developer.nvidia.com/blog/nvidia-cuml-brings-zero-code-change-acceleration-to-scikit-learn/) | Practical introduction to accelerating supported scikit-learn workflows using NVIDIA cuML with minimal or no code changes. | NVIDIA | GPU machine learning | Open article |
 
 ---
 
@@ -84,3 +96,20 @@ The goal of this repository is to make high-quality learning materials easier to
 |---|---|---|---|---|
 | [WorldView-3 Mission and Data](https://earth.esa.int/eogateway/missions/worldview-3#data-section) | Mission overview and technical information useful for understanding WorldView-3 imagery and sensor capabilities. | ESA | Very-high-resolution satellite imagery | Open documentation |
 | [30 cm Resolution Imaging](https://www.euspaceimaging.com/wp-content/uploads/2019/01/EUSI-30cm-resolution.pdf) | Technical resource explaining very-high-resolution satellite imaging and 30 cm imagery capabilities. | European Space Imaging | High-resolution remote sensing | Open PDF |
+
+---
+
+## External Learning and Community Resources
+
+| Resource | Description | Organization / Author | Focus | Access |
+|---|---|---|---|---|
+| [Satellite Image Deep Learning](https://github.com/satellite-image-deep-learning) | Community-maintained collection of datasets, software, methods, and learning resources for deep learning with satellite and aerial imagery. | Robin Cole and Mikolaj Czerkawski | Remote sensing / deep learning | Open source / community |
+| [GEE Community Catalog](https://gee-community-catalog.org/) | Community-maintained catalog of geospatial datasets and resources available through Google Earth Engine. | Samapriya Roy, Sayantan Majumdar, and Tyson Swetnam | Earth observation / geospatial data discovery | Open |
+
+---
+
+## Career Resources
+
+| Resource | Description | Organization / Author | Focus | Access |
+|---|---|---|---|---|
+| [Geo Careers](https://www.geo-careers.com/) | Career resource focused on geospatial, GIS, remote sensing, and related professional opportunities. | Geo Careers | Geospatial careers | Open |
