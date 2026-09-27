@@ -16,7 +16,8 @@ The goal of this repository is to make high-quality learning materials easier to
 - [Remote Sensing](#remote-sensing)
 - [External Learning and Community Resources](#external-learning-and-community-resources)
 - [Career Resources](#career-resources)
-
+- [Ecosystem Services and Environmental Accounting](#ecosystem-services-and-environmental-accounting)
+  
 ---
 
 ## Google Earth Engine
@@ -26,6 +27,8 @@ The goal of this repository is to make high-quality learning materials easier to
 | [End-to-End Google Earth Engine](https://courses.spatialthoughts.com/end-to-end-gee.html) | Comprehensive course covering Google Earth Engine from data access and processing to analysis and application development. | Spatial Thoughts | Google Earth Engine | Open |
 | [Cloud-Based Remote Sensing with Google Earth Engine](https://www.eefabook.org/) | Online book covering remote sensing concepts, Earth observation workflows, and geospatial analysis using Google Earth Engine. | EEFA Book Project | Earth Engine / remote sensing | Open |
 | [Cloud-Based Remote Sensing with Google Earth Engine – Book](https://www.eefabook.org/go-to-the-book.html) | Direct access to the online learning materials and chapters. | EEFA Book Project | Earth Engine / remote sensing | Open |
+| [GeoProximity Intelligence](https://geoproximityintelligence.blogspot.com/2026/09/geoproximity-intelligence-v51-spatial.html) | Example of a Google Earth Engine-based spatial intelligence workflow and interactive geospatial application. | Shashank Hattalageri | Google Earth Engine / spatial analysis | Open article |
+
 
 ---
 
@@ -106,6 +109,7 @@ The goal of this repository is to make high-quality learning materials easier to
 |---|---|---|---|---|
 | [Satellite Image Deep Learning](https://github.com/satellite-image-deep-learning) | Community-maintained collection of datasets, software, methods, and learning resources for deep learning with satellite and aerial imagery. | Robin Cole and Mikolaj Czerkawski | Remote sensing / deep learning | Open source / community |
 | [GEE Community Catalog](https://gee-community-catalog.org/) | Community-maintained catalog of geospatial datasets and resources available through Google Earth Engine. | Samapriya Roy, Sayantan Majumdar, and Tyson Swetnam | Earth observation / geospatial data discovery | Open |
+| [How Agentic AI Transforms Earth Observation Into Actionable Intelligence](https://www.planet.com/pulse/how-agentic-ai-transforms-earth-observation-into-actionable-intelligence/) | Industry article describing agentic geospatial AI workflows that combine natural-language interaction, satellite imagery, change detection, and automated research. | Mariah Hauck / Planet | Agentic GeoAI / Earth observation | Open article |
 
 ---
 
@@ -114,3 +118,11 @@ The goal of this repository is to make high-quality learning materials easier to
 | Resource | Description | Organization / Author | Focus | Access |
 |---|---|---|---|---|
 | [Geo Careers](https://www.geo-careers.com/) | Career resource focused on geospatial, GIS, remote sensing, and related professional opportunities. | Geo Careers | Geospatial careers | Open |
+
+---
+
+## Ecosystem Services and Environmental Accounting
+
+| Resource | Description | Organization / Author | Focus | Access |
+|---|---|---|---|---|
+| [SEEA Ecosystem Accounting](https://seea.un.org/en/methodology/ecosystem-accounting) | International statistical framework for organizing spatial information on ecosystem extent, condition, ecosystem services, and ecosystem assets and linking them with economic activity. | United Nations Statistics Division | Ecosystem accounting / ecosystem services | Open |
