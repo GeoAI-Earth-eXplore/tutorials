@@ -14,9 +14,9 @@ The goal of this repository is to make high-quality learning materials easier to
 - [LiDAR and 3D Workflows](#lidar-and-3d-workflows)
 - [Image Processing](#image-processing)
 - [Remote Sensing](#remote-sensing)
-- [External Learning and Community Resources](#external-learning-and-community-resources)
-- [Career Resources](#career-resources)
 - [Ecosystem Services and Environmental Accounting](#ecosystem-services-and-environmental-accounting)
+- [Career Resources](#career-resources)
+- [External Learning and Community Resources](#external-learning-and-community-resources)
   
 ---
 
@@ -103,6 +103,14 @@ The goal of this repository is to make high-quality learning materials easier to
 
 ---
 
+## Ecosystem Services and Environmental Accounting
+
+| Resource | Description | Organization / Author | Focus | Access |
+|---|---|---|---|---|
+| [SEEA Ecosystem Accounting](https://seea.un.org/en/methodology/ecosystem-accounting) | International statistical framework for organizing spatial information on ecosystem extent, condition, ecosystem services, and ecosystem assets and linking them with economic activity. | United Nations Statistics Division | Ecosystem accounting / ecosystem services | Open |
+| [Natural Capital and Ecosystem Services FAQ](https://seea.un.org/en/about-seea/frequently-asked-questions#What%20are%20ecosystem%20services) | Introductory FAQ explaining natural capital, ecosystem accounting, ecosystem assets, and provisioning, regulating, and cultural ecosystem services. | United Nations / SEEA | Ecosystem services / natural capital accounting | Open |
+
+---
 ## External Learning and Community Resources
 
 | Resource | Description | Organization / Author | Focus | Access |
@@ -113,6 +121,8 @@ The goal of this repository is to make high-quality learning materials easier to
 | [opengeos](https://github.com/opengeos) | Open-source geospatial organization maintaining software, libraries, examples, and learning resources for GIS, remote sensing, and geospatial computing. | opengeos | Open-source geospatial ecosystem | Open source / community |
 | [GeoLibre Gallery](https://geolibre.app/gallery/) | Gallery of interactive GeoLibre projects built from public open data across environmental, societal, infrastructure, and Earth science themes. | opengeos / GeoLibre | GIS examples / open-data applications | Open |
 | [Eurostat Statistics Explained](https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Main_Page) | Official Eurostat resource providing accessible articles, definitions, statistics, and links to European statistical data and metadata. | Eurostat | European socioeconomic and statistical information | Open |
+| [Spatial Analysis Research Center (SPARC)](https://sparc.asu.edu/home) | Research center at Arizona State University focused on GIScience, Earth observation, GeoAI, spatial analysis, geocomputation, geovisual analytics, and spatial optimization. | Arizona State University SPARC | GIScience / GeoAI / spatial analysis | Open |
+| [SPARC Software](https://sparc.asu.edu/software) | Collection of geospatial software, research applications, workshops, and interactive tools developed by the Spatial Analysis Research Center at Arizona State University. | Arizona State University SPARC | GIScience / GeoAI / spatial analysis | Open / research |
 
 ---
 
@@ -122,12 +132,5 @@ The goal of this repository is to make high-quality learning materials easier to
 |---|---|---|---|---|
 | [Geo Careers](https://www.geo-careers.com/) | Career resource focused on geospatial, GIS, remote sensing, and related professional opportunities. | Geo Careers | Geospatial careers | Open |
 
----
 
-## Ecosystem Services and Environmental Accounting
-
-| Resource | Description | Organization / Author | Focus | Access |
-|---|---|---|---|---|
-| [SEEA Ecosystem Accounting](https://seea.un.org/en/methodology/ecosystem-accounting) | International statistical framework for organizing spatial information on ecosystem extent, condition, ecosystem services, and ecosystem assets and linking them with economic activity. | United Nations Statistics Division | Ecosystem accounting / ecosystem services | Open |
-| [Natural Capital and Ecosystem Services FAQ](https://seea.un.org/en/about-seea/frequently-asked-questions#What%20are%20ecosystem%20services) | Introductory FAQ explaining natural capital, ecosystem accounting, ecosystem assets, and provisioning, regulating, and cultural ecosystem services. | United Nations / SEEA | Ecosystem services / natural capital accounting | Open |
 
