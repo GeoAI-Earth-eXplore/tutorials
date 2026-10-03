@@ -110,6 +110,9 @@ The goal of this repository is to make high-quality learning materials easier to
 | [Satellite Image Deep Learning](https://github.com/satellite-image-deep-learning) | Community-maintained collection of datasets, software, methods, and learning resources for deep learning with satellite and aerial imagery. | Robin Cole and Mikolaj Czerkawski | Remote sensing / deep learning | Open source / community |
 | [GEE Community Catalog](https://gee-community-catalog.org/) | Community-maintained catalog of geospatial datasets and resources available through Google Earth Engine. | Samapriya Roy, Sayantan Majumdar, and Tyson Swetnam | Earth observation / geospatial data discovery | Open |
 | [How Agentic AI Transforms Earth Observation Into Actionable Intelligence](https://www.planet.com/pulse/how-agentic-ai-transforms-earth-observation-into-actionable-intelligence/) | Industry article describing agentic geospatial AI workflows that combine natural-language interaction, satellite imagery, change detection, and automated research. | Mariah Hauck / Planet | Agentic GeoAI / Earth observation | Open article |
+| [opengeos](https://github.com/opengeos) | Open-source geospatial organization maintaining software, libraries, examples, and learning resources for GIS, remote sensing, and geospatial computing. | opengeos | Open-source geospatial ecosystem | Open source / community |
+| [GeoLibre Gallery](https://geolibre.app/gallery/) | Gallery of interactive GeoLibre projects built from public open data across environmental, societal, infrastructure, and Earth science themes. | opengeos / GeoLibre | GIS examples / open-data applications | Open |
+| [Eurostat Statistics Explained](https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Main_Page) | Official Eurostat resource providing accessible articles, definitions, statistics, and links to European statistical data and metadata. | Eurostat | European socioeconomic and statistical information | Open |
 
 ---
 
@@ -126,3 +129,5 @@ The goal of this repository is to make high-quality learning materials easier to
 | Resource | Description | Organization / Author | Focus | Access |
 |---|---|---|---|---|
 | [SEEA Ecosystem Accounting](https://seea.un.org/en/methodology/ecosystem-accounting) | International statistical framework for organizing spatial information on ecosystem extent, condition, ecosystem services, and ecosystem assets and linking them with economic activity. | United Nations Statistics Division | Ecosystem accounting / ecosystem services | Open |
+| [Natural Capital and Ecosystem Services FAQ](https://seea.un.org/en/about-seea/frequently-asked-questions#What%20are%20ecosystem%20services) | Introductory FAQ explaining natural capital, ecosystem accounting, ecosystem assets, and provisioning, regulating, and cultural ecosystem services. | United Nations / SEEA | Ecosystem services / natural capital accounting | Open |
+
