@@ -40,6 +40,10 @@ The goal of this repository is to make high-quality learning materials easier to
 | [ArcGIS Documentation](https://doc.arcgis.com/en/) | Official documentation covering ArcGIS tools, workflows, and applications. | Esri | GIS | Open documentation |
 | [GeoDa](https://geodacenter.github.io/) | Official GeoDa website with software access, documentation, tutorials, and resources for exploratory spatial data analysis and spatial statistics. | GeoDa Center | Spatial statistics | Open |
 | [Bivariate Spatial Association](https://pro.arcgis.com/en/pro-app/3.4/tool-reference/spatial-statistics/bivariate-spatial-association.htm) | Documentation for analyzing local spatial relationships between two variables in ArcGIS Pro. | Esri | Spatial statistics | ArcGIS Pro |
+| [Esri Training](https://www.esri.com/en-us/training) | Esri learning platform providing courses, tutorials, learning plans, and training resources for ArcGIS, GIS, spatial analysis, and related technologies. | Esri | GIS / ArcGIS training | Open / paid courses |
+| [ArcGIS Pro Help](https://pro.arcgis.com/en/pro-app/3.4/help/main/welcome-to-the-arcgis-pro-app-help.htm) | Official ArcGIS Pro documentation covering mapping, geoprocessing, spatial analysis, imagery, data management, and application workflows. | Esri | ArcGIS Pro / GIS workflows | Open documentation |
+| [Spatial Data Science: The New Frontier in Analytics](https://www.esri.com/en-us/training/catalog/5d76dcf7e9ccda09bef61294/spatial-data-science-the-new-frontier-in-analytics) | Esri training resource introducing spatial data science concepts, analytical workflows, and the integration of spatial analysis with data science. | Esri | Spatial data science | Esri training |
+| [RALearning](https://github.com/spatialdatasciencegroup/RALearning) | Structured learning roadmap for prospective research assistants covering GIS, Python geospatial analysis, machine learning, deep learning, and spatial and spatiotemporal data science. | Spatial Data Science Group | GIS / spatial data science / machine learning | Open source |
 
 ---
 
