@@ -127,6 +127,7 @@ The goal of this repository is to make high-quality learning materials easier to
 | [Eurostat Statistics Explained](https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Main_Page) | Official Eurostat resource providing accessible articles, definitions, statistics, and links to European statistical data and metadata. | Eurostat | European socioeconomic and statistical information | Open |
 | [Spatial Analysis Research Center (SPARC)](https://sparc.asu.edu/home) | Research center at Arizona State University focused on GIScience, Earth observation, GeoAI, spatial analysis, geocomputation, geovisual analytics, and spatial optimization. | Arizona State University SPARC | GIScience / GeoAI / spatial analysis | Open |
 | [SPARC Software](https://sparc.asu.edu/software) | Collection of geospatial software, research applications, workshops, and interactive tools developed by the Spatial Analysis Research Center at Arizona State University. | Arizona State University SPARC | GIScience / GeoAI / spatial analysis | Open / research |
+| [Spatial Thoughts](https://spatialthoughts.com/) | Geospatial learning platform providing tutorials, courses, and practical resources covering GIS, Python, Google Earth Engine, remote sensing, and spatial data analysis. | Spatial Thoughts | Geospatial learning / GIS / remote sensing | Open / course-dependent |
 
 ---
 
