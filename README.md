@@ -70,6 +70,7 @@ The goal of this repository is to make high-quality learning materials easier to
 | [Advanced Explainable AI for Computer Vision](https://jacobgil.github.io/pytorch-gradcam-book/introduction.html) | Practical guide to Grad-CAM and related techniques for visualizing and interpreting deep computer vision models. | Jacob Gildenblat | Computer vision / explainable AI | Open |
 | [Stacking to Improve Model Performance](https://medium.com/@brijesh_soni/stacking-to-improve-model-performance-a-comprehensive-guide-on-ensemble-learning-in-python-9ed53c93ce28) | Practical guide to ensemble stacking for combining multiple machine learning models. | Community tutorial | Ensemble learning | Open article |
 | [LightGBM Documentation](https://lightgbm.readthedocs.io/en/stable/) | Documentation and examples for training, tuning, and evaluating gradient boosting models. | LightGBM | Machine learning | Open |
+| [Transformer Explainer](https://poloclub.github.io/transformer-explainer/) | Interactive visualization for understanding how transformer-based language models process tokens, attention, and internal computations. | Georgia Tech Polo Club | Transformers / interactive AI education | Open source |
 
 ---
 
@@ -104,6 +105,8 @@ The goal of this repository is to make high-quality learning materials easier to
 |---|---|---|---|---|
 | [WorldView-3 Mission and Data](https://earth.esa.int/eogateway/missions/worldview-3#data-section) | Mission overview and technical information useful for understanding WorldView-3 imagery and sensor capabilities. | ESA | Very-high-resolution satellite imagery | Open documentation |
 | [30 cm Resolution Imaging](https://www.euspaceimaging.com/wp-content/uploads/2019/01/EUSI-30cm-resolution.pdf) | Technical resource explaining very-high-resolution satellite imaging and 30 cm imagery capabilities. | European Space Imaging | High-resolution remote sensing | Open PDF |
+| [Planet University](https://university.planet.com/page/all-courses) | Learning platform providing courses and training materials for working with Planet satellite imagery, remote sensing products, and geospatial workflows. | Planet | Satellite imagery / remote sensing | Course-dependent |
+| [UF Center for Remote Sensing – Data and Tools](https://abe.ufl.edu/crs/resources/remote-sensing-data-and-tools/) | Curated remote-sensing data sources, software, tools, and educational resources maintained by the University of Florida Center for Remote Sensing. | University of Florida | Remote sensing data / tools | Open |
 
 ---
 
@@ -128,6 +131,7 @@ The goal of this repository is to make high-quality learning materials easier to
 | [Spatial Analysis Research Center (SPARC)](https://sparc.asu.edu/home) | Research center at Arizona State University focused on GIScience, Earth observation, GeoAI, spatial analysis, geocomputation, geovisual analytics, and spatial optimization. | Arizona State University SPARC | GIScience / GeoAI / spatial analysis | Open |
 | [SPARC Software](https://sparc.asu.edu/software) | Collection of geospatial software, research applications, workshops, and interactive tools developed by the Spatial Analysis Research Center at Arizona State University. | Arizona State University SPARC | GIScience / GeoAI / spatial analysis | Open / research |
 | [Spatial Thoughts](https://spatialthoughts.com/) | Geospatial learning platform providing tutorials, courses, and practical resources covering GIS, Python, Google Earth Engine, remote sensing, and spatial data analysis. | Spatial Thoughts | Geospatial learning / GIS / remote sensing | Open / course-dependent |
+| [GeoAI with Python](https://github.com/giswqs/GeoAI-Book) | Open-access practical guide to GeoAI with Python covering geospatial data acquisition, deep learning, remote sensing, foundation models, satellite embeddings, and QGIS-based AI workflows. | Qiusheng Wu | GeoAI / Python / remote sensing | Open |
 
 ---
 
